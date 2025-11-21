@@ -1,6 +1,6 @@
 {
   "name": "@bienbien/css-sizes",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Css sizes variables based on tailwind",
   "homepage": "https://github.com/bienbiendev/css-sizes#readme",
   "bugs": {
