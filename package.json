@@ -1,17 +1,17 @@
 {
-  "name": "@bien-bien/css-sizes",
-  "version": "0.1.0",
-  "description": "A css sizes vars based on tailwind",
-  "homepage": "https://github.com/bienoubien-studio/css-sizes#readme",
+  "name": "@bienbien/css-sizes",
+  "version": "0.1.1",
+  "description": "Css sizes variables based on tailwind",
+  "homepage": "https://github.com/bienbiendev/css-sizes#readme",
   "bugs": {
-    "url": "https://github.com/bienoubien-studio/css-sizes/issues"
+    "url": "https://github.com/bienbiendev/css-sizes/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bienoubien-studio/css-sizes.git"
+    "url": "git+https://github.com/bienbiendev/css-sizes.git"
   },
   "license": "MIT",
-  "author": "https://github.com/bienoubien-studio",
+  "author": "https://github.com/bienbiendev",
   "type": "module",
   "main": "dist/sizes.css",
   "style": "dist/sizes.css",
